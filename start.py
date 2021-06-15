@@ -1,4 +1,4 @@
-def start(namea = "elynets"):
-    return "Hello",name
+def start(name = "elynets"):
+    return "Hello "+name+"!"
 
-print(start)
+print(start("EL"))
