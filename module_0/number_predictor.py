@@ -52,7 +52,7 @@ def score_game(game_core):
     """Counting an average of steps to calculate the number"""
     score = int(np.mean(count_ls))
     
-    print(f"The numbers were calculated within {score} tries")
+    print(f"The numbers were calculated within {score} tries in average")
     return(score)
 
 score_game(game_core_v3)
