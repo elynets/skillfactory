@@ -35,6 +35,7 @@ def game_core_v3(number, start_value, finish_value):
     """Exit from while loop if number is predicted correctly"""
     return(count)
 
+
 def score_game(game_core):
     global start_value, finish_value
     count_ls = []
@@ -53,6 +54,5 @@ def score_game(game_core):
     
     print(f"The numbers were calculated within {score} tries")
     return(score)
-
 
 score_game(game_core_v3)
