@@ -2,10 +2,15 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/elynets/skillfactory/blob/main/project_0/README.md#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/elynets/skillfactory/blob/main/project_0/README.md#Какой-кейс-решаем?)
+
 [3. Краткая информация о данных](https://github.com/elynets/skillfactory/blob/main/project_0/README.md#Краткая-информация-о-данных)
+
 [4. Этапы работы над проектом](https://github.com/elynets/skillfactory/blob/main/project_0/README.md#Этапы-работы-над-проектом)
+
 [5. Результ](https://github.com/elynets/skillfactory/blob/main/project_0/README.md#Результы-работы-над-проектом)
+
 [6. Выводы](https://github.com/elynets/skillfactory/blob/main/project_0/README.md#Выводы)
 
 
@@ -38,6 +43,6 @@
 ### Выводы
 Используя подходящие для выполнения задачи инструменты - мы получаем оптимальный результат.
 
-:arrow_up:[к оглавлению](https://github.com/elynets/skillfactory/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/elynets/skillfactory/blob/main/project_0/README.md#Оглавление)
 
 
