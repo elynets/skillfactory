@@ -41,7 +41,7 @@ def score_game(game_core):
     count_ls = []
 
     """Fixing random seed to replicate the test"""
-    np.random.seed(1)
+    np.random.seed(3)
 
     random_array = np.random.randint(start_value, finish_value, size=(1000))
     for number in random_array:
