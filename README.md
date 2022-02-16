@@ -3,5 +3,4 @@
 
 ## Projects
 
-* [Project_0. Game: Guess a number]()
-    the solution is represented in Block_1/number_predictor.py
+* [Project_0. Game: Guess a number](https://github.com/elynets/skillfactory/tree/main/project_0)
