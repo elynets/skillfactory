@@ -1,4 +1,4 @@
-"""SkillFactory Module_0: Number Predictor"""
+"""SkillFactory Block_1: Number Predictor"""
 
 import numpy as np
 
